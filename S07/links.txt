@@ -1,0 +1,6 @@
+https://developer.github.com/v3/issues/#list-issues-for-a-repository
+
+https://www.confluent.io/product/connectors/
+
+https://gist.github.com/jcustenborder/b9b1518cc794e1c1895c3da7abbe9c08#schema-types
+
