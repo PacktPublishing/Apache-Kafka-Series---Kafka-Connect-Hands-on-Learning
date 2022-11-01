@@ -24,7 +24,3 @@ NA
 * [Introduction to Apache NiFi (Hortonworks DataFlow - HDF 2.0) [Video]](https://www.packtpub.com/virtualization-and-cloud/introduction-apache-nifi-hortonworks-dataflow-hdf-20-video)
 
 * [Apache Kafka Series - Kafka Cluster Setup and Administration [Video]](https://www.packtpub.com/networking-and-servers/apache-kafka-series-kafka-cluster-setup-and-administration-video)
-### Download a free PDF
-
- <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781789344738">https://packt.link/free-ebook/9781789344738 </a> </p>
